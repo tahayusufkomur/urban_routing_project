@@ -1,0 +1,6 @@
+Usage of the program:
+
+python3 graph_generator.py
+
+it outputs the file represents the graph.
+

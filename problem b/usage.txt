@@ -1,0 +1,10 @@
+
+
+This program outputs a graph representation, there is splitted 5 checkpoint. But in josm file, there is really a way which is unconnected.
+
+Also the graph is generated without lot, lan, only depends on vertices and edge weights. This does not effects shortest path algorithms, only the visualization can seems different. 
+
+
+usage: python3 visualize_graph.py
+
+

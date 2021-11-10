@@ -1,0 +1,6 @@
+usage: python3 shortest_path.py source_id target_id
+
+ex: python3 shortest_path.py 2024879246 8982649767
+
+For this problem i implemented dijkstra's shortest path algorithm to find shortest path. To decrease complexity i choosed min-heap approach.
+Normally it has to O(n^2) complexity but by this way it decreases to O(n + Elogn). 

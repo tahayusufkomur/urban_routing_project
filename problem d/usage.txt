@@ -1,0 +1,4 @@
+python3 simulate_car_trip.py source target seed
+
+ex: python3 simulate_car_trip.py 2024879246 8982649767 10
+
